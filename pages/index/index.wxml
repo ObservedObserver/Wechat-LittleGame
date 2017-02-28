@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="qipan">
+  <view class="block" wx:for="{{vak}}" bindtap="step" data-pos="{{index}}">
+  <view class="{{item}}"></view>
+  </view>
+</view>
+{{result}}

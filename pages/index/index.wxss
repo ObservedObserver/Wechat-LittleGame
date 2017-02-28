@@ -1,0 +1,27 @@
+/**index.wxss**/
+.qipan{
+  width:660rpx;
+  height:660rpx;
+  margin:auto;
+}
+.block{
+  width:40rpx;
+  height:40rpx;
+  background-color:darkorange;
+  margin-left:4rpx;
+  margin-top:4rpx;
+  float:left;
+  font-size:20rpx;
+}
+.white{
+  width:40rpx;
+  height:40rpx;
+  border-radius:50%;
+  background-color:#ffffff;
+}
+.black{
+  width:40rpx;
+  height:40rpx;
+  border-radius:50%;
+  background-color:#000000;
+}
