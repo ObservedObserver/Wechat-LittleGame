@@ -25,3 +25,8 @@
   border-radius:50%;
   background-color:#000000;
 }
+.restart-container{
+  margin-top: 100rpx;
+  width: 660rpx;
+  padding: 50rpx;
+}

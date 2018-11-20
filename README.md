@@ -1,3 +1,18 @@
-# Wechat-LittleGame
-微信小程序-双人五子棋小游戏
-by OOer(CH) ,MasterHaoChen@icloud.com
+# 微信小程序-双人五子棋小游戏
+
+一个很无聊的微信小程序入门练习demo
+
+## 程序结构
+```js
+{
+  data: {
+    vak // 棋盘-一维数组
+  },
+  count, // 当前步数
+  vec, // 下棋向量
+  step, // 某位玩家的落子行为
+  restart, // 清空棋盘
+  judge // 检测胜负
+}
+```
+
